@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/jpradocueva/jpradocueva.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-You can use the [editor on GitHub](https://github.com/jpradocueva/jpradocueva.github.io/edit/master/test-page.htm.) to maintain and preview the content for your html page.
+You can use the [editor on GitHub](https://github.com/jpradocueva/jpradocueva.github.io/edit/master/test-page.html) to maintain and preview the content for your html page.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
